@@ -1,0 +1,11 @@
+# This file defines the branches that the build script should check for
+# and the checkout script select. It is sourced by the two scripts
+
+EXPECTED_GDB=master
+EXPECTED_QEMU=master
+EXPECTED_BINUTILS=master
+EXPECTED_LLVM=main
+EXPECTED_LDC=ljr-riscv-freestanding
+EXPECTED_DUB=master
+EXPECTED_NEWLIB=master
+EXPECTED_TOOLCHAIN=master
